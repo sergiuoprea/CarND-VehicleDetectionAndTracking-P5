@@ -6,20 +6,20 @@ Self-Driving Cars Nanodegree last project: vehicle detection and tracking
 The goal of this project is to implement a software pipeline in order to detect vehicles in a video. All the process will be described in this documentation which follows the [writeup template](https://github.com/udacity/CarND-Vehicle-Detection/blob/master/writeup_template.md) from Udacity as starting point.
 
 [//]: # (Image References)
-[image1]: ./output_images/color_spaces_features.png
-[image2]: ./output_images/combined_features.png
-[image3]: ./output_images/dataset_examples.png
-[image4]: ./output_images/bad_pipeline_res.png
-[image5]: ./output_images/final_pipeline_test1.png
-[image6]: ./output_images/final_pipeline_test2.png
-[image7]: ./output_images/final_pipeline_test3.png
-[image8]: ./output_images/final_pipeline_test4.png
-[image9]: ./output_images/final_pipeline_test5.png
-[image10]: ./output_images/final_pipeline_test6.png
-[image11]: ./output_images/hist_feat.png
-[image12]: ./output_images/histogram_feature1.png
-[image13]: ./output_images/histogram_feature2.png
-[image14]: ./output_images/hog_features.png
+[image1]: ./output_imgs/color_spaces_features.png
+[image2]: ./output_imgs/combined_features.png
+[image3]: ./output_imgs/dataset_examples.png
+[image4]: ./output_imgs/bad_pipeline_res.png
+[image5]: ./output_imgs/final_pipeline_test1.png
+[image6]: ./output_imgs/final_pipeline_test2.png
+[image7]: ./output_imgs/final_pipeline_test3.png
+[image8]: ./output_imgs/final_pipeline_test4.png
+[image9]: ./output_imgs/final_pipeline_test5.png
+[image10]: ./output_imgs/final_pipeline_test6.png
+[image11]: ./output_imgs/hist_feat.png
+[image12]: ./output_imgs/histogram_feature1.png
+[image13]: ./output_imgs/histogram_feature2.png
+[image14]: ./output_imgs/hog_features.png
 [video1]: ./project_video_output.mp4
 [video2]: ./test_video_output.mp4
 
